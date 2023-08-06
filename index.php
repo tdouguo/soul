@@ -64,7 +64,7 @@ $content = $soul[$rand]['content'];
 	<div class="footer">
 		<button id="reload">再 来 一 碗</button>
       	<p class="copyright">开源：<a target="_blank" href="https://github.com/tdouguo/soul">https://github.com/tdouguo/soul</a></p>
-      	 <a href="https://github.com/tdoustudio"><i class="fa fa-github"></i></a>
+      	 <a href="https://github.com/tdouguo"><i class="fa fa-github"></i></a>
 	</div>
 	
 	<script type="text/javascript">
